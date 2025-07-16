@@ -84,11 +84,6 @@ Therefore, the **CNN method was selected as the final OCR solution** for this pr
 
 ---
 
-Elec-4130-Final-Project/
-├── Template_method-1.ipynb/
-├── CNN-1.ipynb/
-└── README.md
-
 **Lee Gyumin (이규민)**  
 HKUST ECE, ELEC4130 – Machine Learning on Images  
 Email: [gleeag@connect.ust.hk]  
