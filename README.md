@@ -62,6 +62,12 @@ To improve accuracy, I implemented a CNN model using TensorFlow and Keras.
 | CNN (TensorFlow) | 96.95%   | Highly robust, ideal for deployment |
 
 ---
+## Visualization
+### Example output 1
+![Example1](./example1.png)
+### Example output 2
+![Example2](./example2.png)
+---
 
 ## Conclusion
 
